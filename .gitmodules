@@ -1,0 +1,9 @@
+[submodule "SHINE-Classifier"]
+	path = SHINE-Classifier
+	url = git@github.com:Ipouyall/SHINE-Classifier.git
+[submodule "VGB-Classifier"]
+	path = VGB-Classifier
+	url = git@github.com:Ipouyall/VGB-Classifier.git
+[submodule "DADGNN"]
+	path = DADGNN
+	url = git@github.com:Ipouyall/DADGNN.git
