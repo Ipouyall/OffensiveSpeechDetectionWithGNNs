@@ -54,6 +54,6 @@ Named VGB-Classifier. Use generated graph  globally for language then feed it to
 
 Usually, out score would decreased when we removed stopwords. To examine that, we checked NLTK's stopwords' token effect using bart-base and roberta-base models. We found out that some of these SWs have special meaning and they're not neutral tokens.
 
-![Diagram](./NLTK SWs/test_drive_MyDrive_offensive_bert_base__sw1.png)
+![Diagram](https://github.com/Ipouyall/OffensiveSpeechDetectionWithGNNs/blob/main/NLTK%20SWs/test_drive_MyDrive_offensive_bert_base__sw1.png)
 
 
