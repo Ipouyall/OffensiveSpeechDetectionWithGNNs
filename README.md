@@ -15,6 +15,9 @@ In addition to the original dataset, we generated three extension of it named OL
 # Model Evaluation
 
 Our work was based on Graph Neural Networks (GNNs). We report a summary of our results on our mentioned dataset, OLID.
+
+![GNNs](https://github.com/Ipouyall/OffensiveSpeechDetectionWithGNNs/blob/main/GNNs%20for%20TC.png)
+
 Also, we changed this projects interface to work better with `google colab`.
 
 ## SHINE
